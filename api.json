@@ -1,0 +1,15 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "video-server相关API文档",
+  "title": "video-server API",
+  "url": "http://localhost:3001/api",
+  "sampleUrl": "http://localhost:3001/api",
+  "forceLanguage": "zh-cn",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
+
+
